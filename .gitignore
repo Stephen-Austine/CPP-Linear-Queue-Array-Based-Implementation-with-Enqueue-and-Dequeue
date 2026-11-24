@@ -1,0 +1,24 @@
+# Build output
+bin/
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+
+# Debug / profiling
+*.dSYM/
+*.pdb
+core
+*.gcda
+*.gcno
+
+# Editors & OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
